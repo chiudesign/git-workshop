@@ -1,0 +1,1 @@
+I think I get it....or maybe not. I learned the lable's moving along with the currect timeline I'm in, learned about HEAD, Master, active branch with *.
