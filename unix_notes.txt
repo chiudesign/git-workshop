@@ -1,0 +1,9 @@
+
+ This is not good, it remebers my password, which means anyone else can steal it, not good.
+  
+This is good. it remembers everything I did. so I can go back and re-use some of the steps I did before.
+
+I think I understand what I have done so far. even >>
+
+How to search more info?
+google cli 
