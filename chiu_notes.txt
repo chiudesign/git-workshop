@@ -1,3 +1,5 @@
 I think I get it....or maybe not. I learned the lable's moving along with the currect timeline I'm in, learned about HEAD, Master, active branch with *.
 
 I learned a bit further on git remote and push my master branch to github.
+
+This file is for me to write what I learned.
