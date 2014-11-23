@@ -1,5 +1,0 @@
-I think I get it....or maybe not. I learned the lable's moving along with the currect timeline I'm in, learned about HEAD, Master, active branch with *.
-
-I learned a bit further on git remote and push my master branch to github.
-
-After the workshop, I must continute praticing it. Get into a hobby of commiting and chaning code everyday. Otherwise, I'll forget everything. I don't want this happens to me. Not now. Not ever.
